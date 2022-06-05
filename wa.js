@@ -51,13 +51,13 @@ $('#example').czmChatSupport({
                 },
                 onlineDay: {
                     /* Change the day you are offline like this. (sunday:false) */
-                    sunday: "00:00-23:59",
-                    monday: "00:00-23:59",
-                    tuesday: "00:00-23:59",
-                    wednesday: "00:00-23:59",
-                    thursday: "00:00-23:59",
-                    friday: "00:00-23:59",
-                    saturday: "00:00-23:59"
+                    sunday: "09:00-20:59",
+                    monday: "09:00-20:59",
+                    tuesday: "09:00-20:59",
+                    wednesday: "09:00-20:59",
+                    thursday: "09:00-20:59",
+                    friday: "09:00-20:59",
+                    saturday: "09:00-20:59"
                 }
             },
             /* [::End Copy::] */
@@ -81,13 +81,13 @@ $('#example').czmChatSupport({
                 },
                 onlineDay: {
                     /* Change the day you are offline like this. (sunday:false) */
-                    sunday: "00:00-23:59",
-                    monday: "00:00-23:59",
-                    tuesday: "00:00-23:59",
-                    wednesday: "00:00-23:59",
-                    thursday: "00:00-23:59",
-                    friday: "00:00-23:59",
-                    saturday: "00:00-23:59"
+                    sunday: "09:00-20:59",
+                    monday: "09:00-20:59",
+                    tuesday: "09:00-20:59",
+                    wednesday: "09:00-20:59",
+                    thursday: "09:00-20:59",
+                    friday: "09:00-20:59",
+                    saturday: "09:00-20:59"
                 }
             },
             /* [::End Copy::] */
