@@ -82,7 +82,7 @@ $('#example').czmChatSupport({
                 onlineDay: {
                     /* Change the day you are offline like this. (sunday:false) */
                     sunday: "09:00-20:59",
-                    monday: "00:00-20:59",
+                    monday: "09:00-20:59",
                     tuesday: "09:00-20:59",
                     wednesday: "09:00-20:59",
                     thursday: "09:00-20:59",
